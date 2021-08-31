@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{
+	background-color:#d1d3fc;
+	font-size:15px;
+	color: #ce16e9;
+	text-align: center;
+}
+a:link {
+	text-decoration:none;
+	color:#696969;
+}
+a:hover {
+	text-decoration:none;
+	color:#66ccff;
+}
+a:visited {
+	text-decoration:none;
+	color:#330066;
+}
